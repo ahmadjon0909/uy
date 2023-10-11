@@ -1,0 +1,47 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 31px 0 51px 0;
+}
+
+.title {
+    display: flex;
+    gap: 0 41px;
+}
+
+.list {
+
+
+    a {
+        color: #ABB6C5;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+
+}
+
+.text {
+    background-color: transparent;
+    border: none;
+    color: #ABB6C5;
+    margin-right: 23px;
+
+
+}
+
+.text_btn {
+    color: #1252AE;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: transparent;
+    border: none;
+    border-radius: 4px;
+    background: rgba(18, 82, 174, 0.15);
+    box-shadow: 0px 2px 3px 0px rgba(18, 82, 174, 0.40);
+}
